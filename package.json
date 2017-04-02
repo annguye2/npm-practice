@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/annguye2/npm-practice.git"
+    "url": "git@github.com:annguye2/npm-practice.git"
   },
   "author": "An Nguyen",
   "license": "ISC",
